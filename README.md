@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josephucas&repo=Leetcode-go)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josephucas&repo=Leetcode-go)](https://github.com/Josephucas/Leetcode-go)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josephucas&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
